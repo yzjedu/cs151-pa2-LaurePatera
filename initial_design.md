@@ -72,3 +72,5 @@
     * Convert the variable continue to all lower case 
 * If continue equals no, 
   * Output to the user, “Player one lost (player_1_loss) times. Player two lost (player_2_loss) times. Player three lost (player_3_loss) times.”
+
+The part I'm most unsure about is I think I nested some of the if and while loops wrong, or could have done them differently. Otherwise, I feel pretty okay, but I'm sure I'll catch any smaller errors when I start actually coding.
