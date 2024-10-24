@@ -14,7 +14,7 @@ player_2_loss = 0
 player_3_loss = 0
 
 #Output purpose and ask for number of sticks on the table
-print('This program is a game of pick-up sticks played between two users and a computer. Would you like to see the instructions?')
+print('This program is a game of pick-up sticks played between two users and a computer. Each player picks up a certain number of sticks from a pile on the table, and whoever picks up the last stick loses.')
 stick_number = int(input('How many sticks do you want on the table? You can choose any number as an integer between 10 and 100.'))
 while 100 < stick_number  or stick_number < 10:
     stick_number = int(input('How many sticks do you want on the table? You can choose any number as an integer between 10 and 100.'))
