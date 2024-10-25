@@ -50,7 +50,7 @@
        6. set stick_number equal to player_2_sticks subtracted from stick_number
        7. If stick_number is less than or equal to 0
           1. Output to the user, 'The computer lost and the game is over'
-          2. End the while loop\
+          2. End the while loop
        8. Create the variable player_3_sticks and set it equal to the user input given after asking, "Player 3, how many sticks would you like to take, from 1-3?"
        9. While player_3_sticks is less than 1 or greater than 3
           1. Create the variable player_3_sticks and set it equal to the user input given after asking, "Player 3, how many sticks would you like to take, from 1-3?"
