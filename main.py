@@ -59,8 +59,7 @@ while play_again != 'yes' and play_again != 'no':
 while play_again == 'yes':
 
     #Asks how many sticks the users want on the table
-    stick_number = int(
-        input('How many sticks do you want on the table? You can choose any number as an integer between 10 and 100.'))
+    stick_number = int(input('How many sticks do you want on the table? You can choose any number as an integer between 10 and 100.'))
     while 100 < stick_number < 10:
         stick_number = int(input('How many sticks do you want on the table? You can choose any number as an integer between 10 and 100.'))
 
