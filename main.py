@@ -5,7 +5,7 @@
 # Problem Statement: Create a game of "pick-up sticks" for 2 players and a computer
 # Data In: decision to play, number of sticks on the table, number of sticks that players 1 and 3 choose to take, and decision to play again
 # Data Out: player losses
-# Credits: the readme.file
+# Credits: the readme.file and https://www.geeksforgeeks.org/python-break-statement/
 
 #Initialize variables and import modules
 import random
